@@ -1,10 +1,6 @@
 ### Olá, Eu sou willen 👋
 
-
-
-- 🔭 Hoje desenvolvo aplicação web
-- 🌱 Estou estudando ReactJs
-- 📫 Contate-me pelo email: willen.sesantos@gmail.com
+<hr>
 
 <div align="center">
   <a href="https://github.com/willen01">
