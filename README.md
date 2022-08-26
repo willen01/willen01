@@ -1,10 +1,10 @@
 ## Olá, Eu sou Willen 👋
-Olá me chamo Willen, tenho 25 anos e desenvolvo aplicações para backend usando nodejs, atualmente busco uma oportunidade em empresas que aplicam nodejs e tecnologias relacionadas em seus produtos/serviços
+Olá me chamo Willen, tenho 25 anos e desenvolvo aplicações para backend usando nodejs, atualmente busco uma oportunidade em empresas que aplicam nodejs e tecnologias relacionadas em seus produtos/serviços.
 
 #### Cursos concluidos:
 - **ProgramadorBR** - Conceitos iniciais de nodeJs e MongoDb.
 - **TypeScript do básico ao avançado (Udemy)** - Conceitos fundamentais de TypeScript e integração com framework Express. 
-- **Typescript PRO (em andamento)** - Aprofundamento de Typescritp, princípios SOLID, design patterns e arquitetura de software (mvc, DDD, clean code).
+- **Typescript PRO (em andamento)** - Aprofundamento de TypeScritp, princípios SOLID, design patterns e arquitetura de software (mvc, DDD, clean code).
 
 <div align="center">
   <a href="https://github.com/willen01">
